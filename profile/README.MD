@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.ringee.io/?utm_source=github"><img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="50%" alt="Ringee: Open-source, self-hosted global calling platform, opensource alternative to Twilio">
+<a href="https://www.ringee.io/?utm_source=github"><img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="100%" alt="Ringee: Open-source, self-hosted global calling platform, opensource alternative to Twilio">
 </a>
   <!-- <img src="https://www.ringee.io/android-chrome-512x512.png" alt="Ringee Logo" width="120" /> -->
 
