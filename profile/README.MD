@@ -41,7 +41,6 @@ We believe in building in the open and welcome contributions from the community!
 - **Website:** [ringee.io](https://www.ringee.io)
 - **Twitter / X:** [@ringeeio](https://x.com/ringeeio)
 - **LinkedIn:** [Ringee.io](https://www.linkedin.com/company/ringee-io)
-- **Support:** Contact us at `+18094055531`
 
 <br />
 
