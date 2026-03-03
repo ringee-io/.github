@@ -23,7 +23,6 @@ Whether you're a sales team, a cold caller, or a business that values transparen
 
 - **🌍 Global Reach:** Call and receive calls from over 180 countries.
 - **💸 Cost-Effective:** Up to 50× cheaper than traditional telephony providers (the perfect open source Twilio alternative).
-- **💻 Omnichannel:** Native browser calling, mobile, and desktop.
 - **📈 Built for Sales:** Includes a sales dialer, contact management, CRM capabilities, and built-in call recording.
 - **🔓 Open Source:** Full transparency, no vendor lock-in. 
 - **☁️ Flexible Deployment:** Self-host on your own infrastructure or use our managed cloud.
