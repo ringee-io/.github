@@ -1,49 +1,41 @@
 <div align="center">
+  <a href="https://www.ringee.io/?utm_source=github">
+    <img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="50%" alt="Ringee — Open Source Global Calling Platform">
+  </a>
 
-<a href="https://www.ringee.io/?utm_source=github"><img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="50%" alt="Ringee: Open-source, self-hosted global calling platform, opensource alternative to Twilio">
-</a>
+  <h1>Ringee</h1>
+  <p><strong>Open Source Global Calling Platform</strong></p>
 
-  # Ringee
-  **The Open Source Global Calling Platform**
-
-  [![Website](https://img.shields.io/badge/Website-ringee.io-blue?style=flat&logo=google-chrome)](https://www.ringee.io)
-  [![Twitter](https://img.shields.io/badge/Twitter-@ringeeio-1DA1F2?style=flat&logo=x)](https://x.com/ringeeio)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ringee-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/ringee-io)
-  [![GitHub](https://img.shields.io/badge/GitHub-ringee--io-181717?style=flat&logo=github)](https://github.com/ringee-io)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <p>
+    <a href="https://www.ringee.io">Website</a> ·
+    <a href="https://x.com/ringeeio">X</a> ·
+    <a href="https://www.linkedin.com/company/ringee-io">LinkedIn</a> ·
+    <a href="https://github.com/ringee-io">GitHub</a> ·
+    <a href="https://opensource.org/licenses/MIT">MIT License</a>
+  </p>
 </div>
 
 <br />
 
-## 🌍 About Ringee
+## About
 
-**Ringee** is the open source VoIP platform that makes global calling **50× cheaper** than traditional rates. Make and receive crystal-clear calls to 180+ countries directly from your browser or mobile phone. 
+Ringee is an open-source VoIP platform for making and receiving calls globally. It’s designed for teams that want transparent pricing, operational control, and flexible deployment—self-hosted or managed.
 
-Whether you're a sales team, a cold caller, or a business that values transparency and control, Ringee gives you the communication infrastructure you need—without the premium markups.
+## Key Features
 
-## ✨ Core Features
+- Global calling with support for international numbers
+- Browser and mobile calling experiences
+- Sales workflows (dialer, contacts, recording)
+- Open-source and self-hostable
+- Managed cloud option available
 
-- **🌍 Global Reach:** Call and receive calls from over 180 countries.
-- **💸 Cost-Effective:** Up to 50× cheaper than traditional telephony providers (the perfect open source Twilio alternative).
-- **📈 Built for Sales:** Includes a sales dialer, contact management, CRM capabilities, and built-in call recording.
-- **🔓 Open Source:** Full transparency, no vendor lock-in. 
-- **☁️ Flexible Deployment:** Self-host on your own infrastructure or use our managed cloud.
+## Get Started
 
-## 🚀 Get Started
-
-- **[Self-Host Ringee](https://github.com/ringee-io):** Deploy your own instance and retain full control of your telecommunications data.
-- **[Use Our Cloud](https://www.ringee.io):** Let us handle the infrastructure so you can focus on building and calling.
-
-## 🤝 Community & Support
-
-We believe in building in the open and welcome contributions from the community! 
-
-- **Website:** [ringee.io](https://www.ringee.io)
-- **Twitter / X:** [@ringeeio](https://x.com/ringeeio)
-- **LinkedIn:** [Ringee.io](https://www.linkedin.com/company/ringee-io)
+- **Self-host:** https://github.com/ringee-io  
+- **Managed cloud:** https://www.ringee.io
 
 <br />
 
 <div align="center">
-  <i>Built for modern sales teams and global businesses.</i>
+  <sub>Built for modern sales teams and global businesses.</sub>
 </div>
