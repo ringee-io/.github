@@ -2,11 +2,8 @@
 
 <a href="https://www.ringee.io/?utm_source=github"><img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="50%" alt="Ringee: Open-source, self-hosted global calling platform, opensource alternative to Twilio">
 </a>
-  <!-- <img src="https://www.ringee.io/android-chrome-512x512.png" alt="Ringee Logo" width="120" /> -->
 
-<a href="https://www.ringee.io/?utm_source=github">
   # Ringee
-</a>
   **The Open Source Global Calling Platform**
 
   [![Website](https://img.shields.io/badge/Website-ringee.io-blue?style=flat&logo=google-chrome)](https://www.ringee.io)
