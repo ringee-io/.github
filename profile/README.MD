@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.ringee.io/?utm_source=github">
-    <img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="50%" alt="Ringee — Open Source Global Calling Platform">
+    <img src="https://raw.githubusercontent.com/ringee-io/.github/main/images/poster.png" width="100%" alt="Ringee — Open Source Global Calling Platform">
   </a>
 
   <h1>Ringee</h1>
@@ -31,7 +31,7 @@ Ringee is an open-source VoIP platform for making and receiving calls globally. 
 
 ## Get Started
 
-- **Self-host:** https://github.com/ringee-io  
+- **Self-host:** https://docs.ringee-io  
 - **Managed cloud:** https://www.ringee.io
 
 <br />
