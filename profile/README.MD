@@ -31,7 +31,7 @@ Ringee is an open-source VoIP platform for making and receiving calls globally. 
 
 ## Get Started
 
-- **Self-host:** https://docs.ringee-io  
+- **Self-host:** https://docs.ringee.io  
 - **Managed cloud:** https://www.ringee.io
 
 <br />
